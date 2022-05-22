@@ -11,9 +11,10 @@ def multiply(a, b):
 
     return result
 
+
 def multiply_chain(chain):
     result = chain[0]
-    
+
     for elem in chain[1:]:
         result = multiply(result, elem)
 
