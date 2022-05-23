@@ -4,6 +4,7 @@
 ## Содержание
 - 01.TicTacToe [Условие](https://github.com/mailcourses/deep_python_spring_2022/blob/main/lesson-1/homework.md)
 - 03.CustomList [Условие](https://github.com/mailcourses/deep_python_spring_2022/blob/main/lesson-03/homework.md)
+- 04.MetaclassDescriptor [Условие](https://github.com/mailcourses/deep_python_spring_2022/blob/main/lesson-04/homework.md)
 - 05.LRUCache [Условие](https://github.com/mailcourses/deep_python_spring_2022/blob/main/lesson-05/homework.md)
 - 07.AsyncFetcher [Условие](https://github.com/mailcourses/deep_python_spring_2022/blob/main/lesson-07/homework.md)
 - 08.Profiling [Условие](https://github.com/mailcourses/deep_python_spring_2022/blob/main/lesson-08/homework.md)
